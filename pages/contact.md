@@ -3,5 +3,6 @@ layout: default
 title: Contact
 id: contact
 ---
+EMAIL: wilson.jonathan25@gmail.com
 
-This is my contact page!!!!
+NUMBER: 437-995-0695
