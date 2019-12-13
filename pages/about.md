@@ -2,6 +2,14 @@
 layout: default
 title: About
 id: about
+thumbnail: /images/uploads/meman.jpg
 ---
+I'm [Jonathan Wilson](https://65dde2d2-b105-4ab4-a1da-3b010e89bd3f.filesusr.com/ugd/67d6bd_67ba21d18cc24c148bc763da1c58e964.pdf), a 2nd year User Experience(UX) Design student. I was born in Baltimore, Maryland but my family is from Freetown, Sierra Leone. My mother gave birth to me in the United States where my uncle lives while we had to stop over to wait for our visa before entering Canada. After I was born on April 25th 2000, my family and I stayed in Baltimore Maryland with my uncle. About 9 months later on January 3rd 2001, we boarded a plane from Washington to Toronto to start a new life here. The whole idea was first hatched in the 90’s. My dad was working in Ghana for the UN (United Nations) at the time. My dad’s boss was a residence representative who was from Canada and she told him about what Canada was like. And after intensive research, my dad found out how good a place Canada was and at that time he decided to move our family to Canada. After applying for a visa and paying thousands of dollars it costed for all of us to move, we were granted visa. The main reason we moved to Canada was that Canada had more security than the United States at the time. It also had better social security and seemed like a better place for children to grow and a family to prosper. As for push factors, there were none. Unlike many others, our migration was completely by choice. We weren’t driven out because of a war or dangerous disease. We were blessed and capable enough to choose to move here and start a life here.
 
-This is my about page!!!!
+
+
+ 
+
+
+
+I graduated from and was Vice President of Student Council at St. Mother Teresa Catholic Academy in Scarborough, Toronto. I have always had an interest in technology, computers, and science fiction. Ever since deciding that I want to have a career in a User Experience Design, I have begun researching about it and attending workshops that teach me skills like HTML5 and CSS, about prototyping, and design challenges. Along with my Bacholors of Design in UX, I am also in pursuit of a minor in Social Innovation and a option in Leadership. I think it is important to take a Leadership courses because of the fundamental and useful skills and traits developed that I will use later in my [UX career](https://www.linkedin.com/in/jonathan-wilson-b91272180/). I look to my Pops as someone who has played a major leadership role in my life and has positively influenced me.
